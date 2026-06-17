@@ -1,4 +1,5 @@
 ## Current Projects
+- 🧾 [TableStakes] (https://github.com/dmvaldman/tablestakes) - A more fun way to split a bill
 - ✍️ [Half Formed Thought](https://github.com/dmvaldman/halfformedthought) - A note-taking app for brainstorming
 - ⚖️ [Affine News](https://github.com/dmvaldman/affine.news) - Explore bias in news reporting
 - 🪑 [Satlas](https://github.com/dmvaldman/satlas) - Find and share beautiful places to sit
